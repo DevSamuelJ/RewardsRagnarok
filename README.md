@@ -34,17 +34,6 @@ Sistema de personalização de personagens com autenticação (login e senha), d
 
 ---
 
-## 🎨 Por que usamos Tailwind CSS?
-
-O **Tailwind CSS** foi escolhido para oferecer:
-
-- 🚀 **Produtividade:** desenvolvimento mais rápido sem precisar escrever CSS manualmente.
-- 🎯 **Consistência visual:** UI moderna e limpa.
-- 📱 **Responsividade facilitada:** uso de breakpoints e utilitários prontos.
-- 🔧 **Facilidade de manutenção:** classes utilitárias diretas no JSX, evitando arquivos CSS enormes e difíceis de manter.
-
----
-
 ## 📁 Estrutura do Projeto
 
 ```
@@ -91,7 +80,7 @@ cbgames-app/
 
 1. Clone este repositório:
    ```
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/DevSamuelJ/RewardsRagnarok.git
    ```
 
 2. Instale as dependências do backend:
